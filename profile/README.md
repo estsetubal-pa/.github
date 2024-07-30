@@ -1,4 +1,22 @@
 # Programação Avançada
+## Ambiente de desenvolvimento
+### Java Development Kit (JDK)
+- Deve utilizar uma versão do Java Development Kit (JDK) com suporte para JavaFX. A versão recomendada para a Unidade Curricular é a BellSoft Liberica JDK, versão 17 LTS. Transferência disponível em 
+<https://bell-sw.com/pages/downloads/#/java-17-lts>
+- **Nota** : Deve escolher sempre um pacote do tipo **Full JDK**
+
+### Integrated Development Environment (IDE)
+- Download do IntelliJ IDEA Community: <https://www.jetbrains.com/idea/download/>
+
+- Opcional: Obter Licença Educacional dos produtos completos da JetBrains, incluindo o IntelliJ IDEA Ultimate: https://www.jetbrains.com/community/education/
+
+
+### Version Control System (VCS)
+- Registar conta no GitHub, utilizando o e-mail institucional: <https://github.com/> . **Nota** :Se já tiver efetuado este passo em Unidades Curriculares anteriores, certifique-se que possui as respetivas credenciais.
+
+- Opcional: Instalação do GitHub Desktop, caso pretenda manipular os repositórios fora do IDE: https://desktop.github.com
+
+
 ## Repositórios de apoio às aulas TP
 
 Os seguintes repositórios são referenciados nos slides das aulas TP e apresentados por ordem da planificação das aulas:
