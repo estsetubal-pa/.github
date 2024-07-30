@@ -23,13 +23,13 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
     - <https://github.com/estsetubal-pa/ModelViewShoppingCart_Template>
     - <https://github.com/estsetubal-pa/MVC_ShoppingCart_Template>
 - **Padrão Command**
-    - <https://github.com/estsetubal-pa/Command_BankAccount>  
+    - <https://github.com/estsetubal-pa/Command_BankAccount_Template>  
 - **Padrão Memento**
-    - <https://github.com/estsetubal-pa/Memento_BankAccount>   
+    - <https://github.com/estsetubal-pa/Memento_BankAccount_Template>   
 - **Padrão Strategy**
-    - <https://github.com/estsetubal-pa/JavaPatterns_Strategy>
+    - <https://github.com/estsetubal-pa/Strategy_Template>
 - **Padrões Factories**
-    - <https://github.com/estsetubal-pa/JavaPatterns_Factories>   
+    - <https://github.com/estsetubal-pa/Factories_Template>   
 - **Tecnicas de Refatoring**
   - <https://github.com/estsetubal-pageral/ExtractMethod_Template>
   - <https://github.com/estsetubal-pa/ExtractClass_Template>
