@@ -31,7 +31,7 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 - **Padrões Factories**
     - <https://github.com/estsetubal-pa/Factories_Template>   
 - **Tecnicas de Refatoring**
-  - <https://github.com/estsetubal-pageral/ExtractMethod_Template>
+  - <https://github.com/estsetubal-pa/ExtractMethod_Template>
   - <https://github.com/estsetubal-pa/ExtractClass_Template>
-  - <https://github.com/estsetubal-pageral/JavaRefactoring_ReplaceInheritanceDelegation>
-  - <https://github.com/estsetubal-pageral/>JavaRefactoring_HideDelegateMoveMethod>
+  - <https://github.com/estsetubal-pa/JavaRefactoring_ReplaceInheritanceDelegation>
+  - <https://github.com/estsetubal-pa/JavaRefactoring_HideDelegateMoveMethod>
