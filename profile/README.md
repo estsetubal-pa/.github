@@ -16,7 +16,9 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 - **Implementação do algoritmo Dijkstra**
   - <https://github.com/estsetubal-pa/ADTGraph_Dijkstra_Template>
 - **Padrão Iterator**
-  - <https://github.com/estsetubal-pa/Iterator_Template.git> 
+  - <https://github.com/estsetubal-pa/Iterator_Template.git>
+- **Padrão Singleton**
+  - <https://github.com/estsetubal-pa/SingletonLogger.git>
 - **Padrão MVC & Observer**
     - <https://github.com/estsetubal-pageral/ModelViewShoppingCart_Template>
     - <https://github.com/estsetubal-pageral/MVC_ShoppingCart>
