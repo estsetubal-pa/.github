@@ -24,7 +24,7 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 - **Introdução aos Tipos Abstractos de Dados em JAVA e testes unitários de coleções**
   - <https://github.com/estsetubal-pa/ADTStack_Template> 
 - **Implementação do TAD Tree**
-    - <https://github.com/pa-estsetubal-ips-pt/ADTTree_Template>  
+    - <https://github.com/estsetubal-pa/ADTTree_Template>  
 - **Utilização da Binary Search Tree, para implementação do TAD Map**
   - <https://github.com/estsetubal-pa/ADTMap_Template> 
 - **TAD Graph**
