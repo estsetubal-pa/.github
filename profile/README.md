@@ -25,8 +25,8 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
   - <https://github.com/estsetubal-pa/ADTStack_Template> 
 - **Implementação do TAD Tree**
     - <https://github.com/estsetubal-pa/ADTTree_Template>  
-- **Utilização da Binary Search Tree, para implementação do TAD Map**
-  - <https://github.com/estsetubal-pa/ADTMap_Template> 
+- **Binary Search Tree - Exercícios**
+  - <https://github.com/estsetubal-pa/BST_Training> 
 - **TAD Graph**
   - <https://github.com/estsetubal-pa/ADTGraph_Example_Template> 
 - **Biblioteca SmarthGraph**
