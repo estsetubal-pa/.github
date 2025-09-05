@@ -37,9 +37,8 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
   - <https://github.com/estsetubal-pa/Iterator_Template.git>
 - **Padrão Singleton**
   - <https://github.com/estsetubal-pa/SingletonLogger.git>
-- **Padrão MVC & Observer**
+- **Padrão MVP & Observer**
     - <https://github.com/estsetubal-pa/ModelViewShoppingCart_Template>
-    - <https://github.com/estsetubal-pa/MVC_ShoppingCart_Template>
 - **Padrão Command**
     - <https://github.com/estsetubal-pa/Command_BankAccount_Template>  
 - **Padrão Memento**
