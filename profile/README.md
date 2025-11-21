@@ -42,7 +42,7 @@ Os seguintes repositórios são referenciados nos slides das aulas TP e apresent
 - **Padrão MVP**
     - <https://github.com/estsetubal-pa/MVP_ShoppingCart>
 - **Padrão State**
-  - <https://github.com/brunomnsilva/JavaPatterns_State> 
+  - <https://github.com/estsetubal-pa/StateCoffeeMachine> 
 - **Padrão Command**
     - <https://github.com/estsetubal-pa/Command_BankAccount_Template>  
 - **Padrão Memento**
